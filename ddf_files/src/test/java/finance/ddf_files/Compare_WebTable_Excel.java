@@ -111,11 +111,14 @@ public class Compare_WebTable_Excel {
 		}
 		
 	}	
-		 
+	// here we need to use thissssssssssss
+	
 	@AfterClass
      public void CloseBrowser() {
 		
-		driver.close();		
+		driver.close();	
+		// hai
+		
 	}
 
 }
